@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Water Tested, Carved&nbsp;Frame, Curved Glass, Discover&nbsp;a world without limits, Explore other Galaxy devices., The new super powerful Galaxy Note9, Connect to everything important to you, Galaxy Note9: See what else it can do., Gear IconX, Tablet mobility.
+                                PC power.">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <title>Accueil yemfibre</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="Accueil-yemfibre.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 3.26.0, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i|Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": ""
+}</script>
+    <meta name="theme-color" content="#3a0e63">
+    <meta property="og:title" content="Accueil yemfibre">
+    <meta property="og:type" content="website">
+  </head>
+  <body class="u-body"><header class="u-clearfix u-header u-header" id="sec-8ded"><div class="u-clearfix u-sheet u-sheet-1">
+        <nav class="u-align-left u-menu u-menu-dropdown u-nav-spacing-25 u-offcanvas u-menu-1" data-responsive-from="XL">
+          <div class="menu-collapse">
+            <a class="u-button-style u-nav-link" href="#" style="padding: 4px 0px; font-size: calc(1em + 8px);">
+              <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 302 302" style="undefined"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-7b92"></use></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg-7b92" x="0px" y="0px" viewBox="0 0 302 302" style="enable-background:new 0 0 302 302;" xml:space="preserve" class="u-svg-content"><g><rect y="36" width="302" height="30"></rect><rect y="236" width="302" height="30"></rect><rect y="136" width="302" height="30"></rect>
+</g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
+            </a>
+          </div>
+          <div class="u-nav-container">
+            <ul class="u-nav u-spacing-25 u-unstyled"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Accueil-yemfibre.html" style="padding: 8px 0px;">Accueil yemfibre</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="About.html" style="padding: 8px 0px;">About</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Contact.html" style="padding: 8px 0px;">Contact</a>
+</li></ul>
+          </div>
+          <div class="u-nav-container-collapse">
+            <div class="u-align-center u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Accueil-yemfibre.html">Accueil yemfibre</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="About.html">About</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Contact.html">Contact</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+        <h1 class="u-align-left u-text u-text-default u-text-palette-2-dark-1 u-text-1"><span class="u-icon u-icon-1"><svg class="u-svg-content" viewBox="0 0 53 53" x="0px" y="0px" style="width: 1em; height: 1em;"><rect x="27" y="28" style="fill:#424A60;" width="2" height="18"></rect><rect x="37.5" y="2.893" transform="matrix(0.7071 0.7071 -0.7071 0.7071 20.8223 -23.2696)" style="fill:#424A60;" width="2" height="21.213"></rect><rect x="15" y="21.858" transform="matrix(0.7071 0.7071 -0.7071 0.7071 30.1421 -0.7696)" style="fill:#424A60;" width="2" height="28.284"></rect><rect x="10.722" y="13.5" transform="matrix(0.7071 0.7071 -0.7071 0.7071 15.6716 -8.8345)" style="fill:#424A60;" width="15.556" height="2"></rect><rect x="26.893" y="32.5" transform="matrix(0.7071 0.7071 -0.7071 0.7071 34.6716 -16.7046)" style="fill:#424A60;" width="21.213" height="2"></rect><circle style="fill:#43B05C;" cx="48" cy="5" r="5"></circle><circle style="fill:#7383BF;" cx="28" cy="48" r="5"></circle><circle style="fill:#57D8AB;" cx="5" cy="46" r="5"></circle><circle style="fill:#D75A4A;" cx="12" cy="8" r="3"></circle><circle style="fill:#EBBA16;" cx="44" cy="40" r="3"></circle><circle style="fill:#4B6DAA;" cx="28" cy="24" r="7"></circle></svg><img></span>&nbsp;YEMFIBRE
+        </h1>
+      </div></header> 
+    <section class="u-clearfix u-section-1" id="sec-950a">
+      <img src="images/gr4.png" alt="" class="u-expanded-width u-image u-image-default u-image-1">
+      <img src="images/86.png" alt="" class="u-expanded-width-sm u-expanded-width-xs u-image u-image-contain u-image-default u-image-2">
+      <div class="u-clearfix u-gutter-30 u-layout-wrap u-layout-wrap-1">
+        <div class="u-layout">
+          <div class="u-layout-row">
+            <div class="u-container-style u-layout-cell u-left-cell u-size-20 u-layout-cell-1">
+              <div class="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-valign-middle-xs">
+                <div class="u-container-style u-group u-white u-group-1">
+                  <div class="u-container-layout u-valign-middle u-container-layout-2">
+                    <h1 class="u-text u-text-palette-1-base u-text-1">Water Tested</h1>
+                    <p class="u-text u-text-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices.</p><span class="u-icon u-icon-circle u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 268.832 268.832"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-b8e5"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg-b8e5" x="0px" y="0px" viewBox="0 0 268.832 268.832" style="enable-background:new 0 0 268.832 268.832;" xml:space="preserve" class="u-svg-content"><g><path d="M265.171,125.577l-80-80c-4.881-4.881-12.797-4.881-17.678,0c-4.882,4.882-4.882,12.796,0,17.678l58.661,58.661H12.5   c-6.903,0-12.5,5.597-12.5,12.5c0,6.902,5.597,12.5,12.5,12.5h213.654l-58.659,58.661c-4.882,4.882-4.882,12.796,0,17.678   c2.44,2.439,5.64,3.661,8.839,3.661s6.398-1.222,8.839-3.661l79.998-80C270.053,138.373,270.053,130.459,265.171,125.577z"></path>
+</g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="u-container-style u-layout-cell u-size-20 u-layout-cell-2">
+              <div class="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-valign-middle-xs">
+                <div class="u-container-style u-group u-white u-group-2">
+                  <div class="u-container-layout u-valign-middle u-container-layout-4">
+                    <h1 class="u-text u-text-palette-3-base u-text-3">Carved&nbsp;Frame</h1>
+                    <p class="u-text u-text-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices.</p><span class="u-icon u-icon-circle u-icon-2"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 268.832 268.832"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-8eb3"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg-8eb3" x="0px" y="0px" viewBox="0 0 268.832 268.832" style="enable-background:new 0 0 268.832 268.832;" xml:space="preserve" class="u-svg-content"><g><path d="M265.171,125.577l-80-80c-4.881-4.881-12.797-4.881-17.678,0c-4.882,4.882-4.882,12.796,0,17.678l58.661,58.661H12.5   c-6.903,0-12.5,5.597-12.5,12.5c0,6.902,5.597,12.5,12.5,12.5h213.654l-58.659,58.661c-4.882,4.882-4.882,12.796,0,17.678   c2.44,2.439,5.64,3.661,8.839,3.661s6.398-1.222,8.839-3.661l79.998-80C270.053,138.373,270.053,130.459,265.171,125.577z"></path>
+</g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="u-container-style u-layout-cell u-right-cell u-size-20 u-layout-cell-3">
+              <div class="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-valign-middle-xs">
+                <div class="u-container-style u-group u-white u-group-3">
+                  <div class="u-container-layout u-valign-middle u-container-layout-6">
+                    <h1 class="u-text u-text-palette-2-base u-text-5">Curved Glass</h1>
+                    <p class="u-text u-text-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices.</p><span class="u-icon u-icon-circle u-icon-3"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 268.832 268.832"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-a3e4"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg-a3e4" x="0px" y="0px" viewBox="0 0 268.832 268.832" style="enable-background:new 0 0 268.832 268.832;" xml:space="preserve" class="u-svg-content"><g><path d="M265.171,125.577l-80-80c-4.881-4.881-12.797-4.881-17.678,0c-4.882,4.882-4.882,12.796,0,17.678l58.661,58.661H12.5   c-6.903,0-12.5,5.597-12.5,12.5c0,6.902,5.597,12.5,12.5,12.5h213.654l-58.659,58.661c-4.882,4.882-4.882,12.796,0,17.678   c2.44,2.439,5.64,3.661,8.839,3.661s6.398-1.222,8.839-3.661l79.998-80C270.053,138.373,270.053,130.459,265.171,125.577z"></path>
+</g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="u-container-style u-expanded-width-sm u-expanded-width-xs u-group u-group-4">
+        <div class="u-container-layout u-valign-middle-md u-container-layout-7">
+          <h1 class="u-text u-text-body-alt-color u-title u-text-7">Discover&nbsp;a world without limits </h1>
+          <p class="u-large-text u-text u-text-body-alt-color u-text-variant u-text-8">1</p>
+          <a href="https://nicepage.com/c/nature-html-templates" class="u-border-1 u-border-white u-btn u-button-style u-btn-1">learn more</a>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-section-2" id="sec-310a">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-align-center u-container-style u-group u-group-1">
+          <div class="u-container-layout">
+            <h2 class="u-text u-text-1">Explore other Galaxy devices. </h2>
+          </div>
+        </div>
+        <div class="u-clearfix u-expanded-width u-gutter-30 u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div class="u-align-center u-container-style u-layout-cell u-left-cell u-size-15 u-size-30-md u-layout-cell-1">
+                <div class="u-container-layout">
+                  <img src="images/5.jpg" alt="" class="u-expanded-width u-image u-image-contain u-image-default u-image-1">
+                  <h4 class="u-text u-text-2">Phones</h4>
+                </div>
+              </div>
+              <div class="u-container-style u-layout-cell u-size-15 u-size-30-md u-layout-cell-2">
+                <div class="u-container-layout">
+                  <img src="images/Explore_Tab_S_080818.jpg" alt="" class="u-expanded-width u-image u-image-contain u-image-default u-image-2">
+                  <h4 class="u-align-center u-text u-text-3">Tablets</h4>
+                </div>
+              </div>
+              <div class="u-align-center u-container-style u-layout-cell u-size-15 u-size-30-md u-layout-cell-3">
+                <div class="u-container-layout">
+                  <img src="images/Explore_Watch_S_v2.jpg" alt="" class="u-expanded-width u-image u-image-contain u-image-default u-image-3">
+                  <h4 class="u-text u-text-4">Wearables</h4>
+                </div>
+              </div>
+              <div class="u-container-style u-layout-cell u-right-cell u-size-15 u-size-30-md u-layout-cell-4">
+                <div class="u-container-layout">
+                  <img src="images/Explore_Virtual_S_080818.jpg" alt="" class="u-expanded-width u-image u-image-contain u-image-default u-image-4">
+                  <h4 class="u-align-center u-text u-text-5">Virtual Reality</h4>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-palette-2-base u-section-3" id="carousel_81bd">
+      <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+        <div class="u-layout">
+          <div class="u-layout-row">
+            <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-1">
+              <div class="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-valign-middle-xs u-container-layout-1">
+                <h1 class="u-text u-text-1">The new super powerful&nbsp;</h1>
+                <p class="u-text u-text-2">Meet the latest member of the .</p>
+                <a href="https://nicepage.com" class="u-border-1 u-border-white u-btn u-button-style u-btn-1">buy now</a>
+              </div>
+            </div>
+            <div class="u-container-style u-image u-layout-cell u-right-cell u-size-30 u-image-1">
+              <div class="u-container-layout"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-section-4" id="sec-0695">
+      <img src="images/bg2.png" alt="" class="u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xl u-image u-image-default u-image-1">
+      <div class="u-align-center u-container-style u-expanded-width-sm u-expanded-width-xs u-group u-group-1">
+        <div class="u-container-layout u-valign-middle u-container-layout-1">
+          <h2 class="u-text u-text-1">Connect to everything important to you</h2>
+        </div>
+      </div>
+      <div class="u-clearfix u-gutter-50 u-layout-wrap u-layout-wrap-1">
+        <div class="u-gutter-0 u-layout">
+          <div class="u-layout-row">
+            <div class="u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-1">
+              <div class="u-container-layout" src="">
+                <img class="u-expanded-width u-image u-image-2" src="images/Connect_Watch_L_080818.jpg">
+                <h4 class="u-align-center u-text u-text-2">An untethered watch for an untethered life.</h4>
+                <p class="u-align-center u-text u-text-3">The new Galaxy Watch connects via Bluetooth and LTE, so you can text, call, and run your day while leaving your phone at home.</p>
+              </div>
+            </div>
+            <div class="u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
+              <div class="u-container-layout" src="">
+                <img class="u-expanded-width u-image u-image-3" src="images/022118primaryselection2WalletGalaxyLandingL.jpg">
+                <h4 class="u-align-center u-text u-text-4">Turn your phone <br>into your wallet.
+                </h4>
+                <p class="u-align-center u-text u-text-5">Forgot your cash and cards at home? No problem—with Samsung Pay right on your phone, you're always ready to pick up the check.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-palette-2-base u-section-5" id="carousel_18ad">
+      <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+        <div class="u-layout">
+          <div class="u-layout-row">
+            <div class="u-container-style u-image u-layout-cell u-right-cell u-size-30 u-image-1">
+              <div class="u-container-layout"></div>
+            </div>
+            <div class="u-align-left-xs u-align-right-lg u-align-right-md u-align-right-sm u-align-right-xl u-black u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-2">
+              <div class="u-container-layout u-valign-middle-md u-valign-middle-xl u-valign-middle-xs u-container-layout-2">
+                <h1 class="u-text u-text-1">Galaxy Note9: See what else it can do.</h1>
+                <p class="u-text u-text-2">The Galaxy Note9 is packed with features to up your photo game and connect you more deeply with the things that are important to you. See how it's redefining the smartphone.Meet the latest member of the Galaxy family.</p>
+                <a href="https://www.samsung.com/us/mobile/galaxy-note9/" class="u-border-1 u-border-white u-btn u-button-style u-btn-1" title="learn more" target="_blank">learn more</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-section-6" id="sec-13cb">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-container-style u-group u-group-1">
+          <div class="u-container-layout u-container-layout-1">
+            <h2 class="u-align-center u-text u-text-1">Gear IconX</h2>
+            <p class="u-align-center u-text u-text-2">The Gear IconX are cutting-edge wireless earbuds—as well as a portable music library,4 fitness tracker, and personal coach.5 Whether standalone or connected to your Note9,6 you can listen to your playlists and podcasts, maximize your
+                        workouts, and log your progress, all without touching your phone.</p>
+          </div>
+        </div>
+        <img src="images/galaxynote9_acc_iconxcolor01.jpg" alt="" class="u-expanded-width-xs u-image u-image-contain u-image-default u-image-1">
+      </div>
+    </section>
+    <section class="u-clearfix u-palette-3-base u-section-7" id="carousel_80e8">
+      <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+        <div class="u-layout">
+          <div class="u-layout-row">
+            <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-1">
+              <div class="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-valign-middle-xs u-container-layout-1">
+                <h1 class="u-text u-text-1">Tablet mobility. <br>PC power.
+                </h1>
+                <p class="u-text u-text-2">The Galaxy Tab S4 gives you a stunningly brilliant screen, a PC experience in a tablet and more.</p>
+                <a href="https://nicepage.cc" class="u-border-1 u-border-white u-btn u-button-style u-btn-1">buy now</a>
+              </div>
+            </div>
+            <div class="u-container-style u-image u-layout-cell u-right-cell u-size-30 u-image-1">
+              <div class="u-container-layout"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-section-8" id="sec-78c8">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-34 u-layout-cell-1">
+                <div class="u-container-layout u-valign-middle u-container-layout-1">
+                  <h3 class="u-text u-text-1">Explore how the Galaxy Note9 transforms the way you do business.</h3>
+                </div>
+              </div>
+              <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-26 u-layout-cell-2">
+                <div class="u-container-layout u-container-layout-2">
+                  <a href="https://www.samsung.com/us/mobile/galaxy-note9/" class="u-border-1 u-border-black u-btn u-button-style u-btn-1" title="learn more" target="_blank">learn more</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    
+    <footer class="u-align-left u-clearfix u-footer" id="sec-e6a2"><div class="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-valign-middle-xs u-container-layout-1">
+        <h1 class="u-text u-text-1">Tablet mobility. <br>PC power.
+        </h1>
+        <p class="u-text u-text-2">The Galaxy Tab S4 gives you a stunningly brilliant screen, a PC experience in a tablet and more.</p>
+        <a href="#" class="u-border-1 u-border-white u-btn u-button-style u-btn-1">buy now</a>
+      </div></footer>
+    <section class="u-backlink u-clearfix u-grey-80">
+      <a class="u-link" href="https://nicepage.com/templates" target="_blank">
+        <span>Templates</span>
+      </a>
+      <p class="u-text">
+        <span>created with</span>
+      </p>
+      <a class="u-link" href="https://nicepage.com/html-website-builder" target="_blank">
+        <span>HTML Builder</span>
+      </a>. 
+    </section>
+  </body>
+</html>
